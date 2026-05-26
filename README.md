@@ -41,4 +41,4 @@ Western region showed strong overall sales performance
 Discount levels impacted profit margins significantly
 
 Tableau Dashboard Link
-[View Here]([url](https://public.tableau.com/app/profile/sahinda.maharjan/viz/SuperstoreSales_17794754976880/ExecutiveOverview))
+[View Here](https://public.tableau.com/app/profile/sahinda.maharjan/viz/SuperstoreSales_17794754976880/ExecutiveOverview)
