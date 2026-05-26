@@ -49,3 +49,6 @@ Discount levels impacted profit margins significantly
 **Tableau Dashboard Link**
 
 [View Here](https://public.tableau.com/app/profile/sahinda.maharjan/viz/SuperstoreSales_17794754976880/ExecutiveOverview)
+
+<img width="1838" height="902" alt="image" src="https://github.com/user-attachments/assets/2db3c94e-9219-4be7-a3b6-c246e93842da" />
+
